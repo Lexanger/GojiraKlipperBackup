@@ -1,5 +1,8 @@
 {
   "active_printer_id": "default",
+  "appearance": {
+    "toolhead_style": 5
+  },
   "config_version": 16,
   "dark_mode": true,
   "display": {
