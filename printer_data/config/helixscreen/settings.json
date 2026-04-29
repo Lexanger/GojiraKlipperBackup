@@ -203,7 +203,8 @@
           "fan",
           "heater_fan hotend_fan",
           "output_pin caselight",
-          "mmu"
+          "mmu",
+          "fan_generic exhaust"
         ],
         "last_snapshot": {
           "fans": [
@@ -248,7 +249,9 @@
           ],
           "timestamp": "2026-04-29T19:17:54Z"
         },
-        "optional": []
+        "optional": [
+          "fan_generic exhuast"
+        ]
       },
       "heaters": {
         "bed": "heater_bed",
