@@ -204,7 +204,9 @@
           "heater_fan hotend_fan",
           "output_pin caselight",
           "mmu",
-          "fan_generic exhaust"
+          "fan_generic exhaust",
+          "controller_fan controller_fan1",
+          "controller_fan controller_fan"
         ],
         "last_snapshot": {
           "fans": [
