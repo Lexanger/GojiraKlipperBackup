@@ -41,7 +41,7 @@
   },
   "log_path": "/tmp/helixscreen.log",
   "motion": {
-    "jog_mode": 1
+    "jog_mode": 0
   },
   "print_start_history": {
     "entries": [
@@ -97,6 +97,15 @@
         "temp_bucket": 2,
         "timestamp": 1777564820,
         "total": 661
+      },
+      {
+        "phases": {
+          "2": 21,
+          "7": 98
+        },
+        "temp_bucket": 2,
+        "timestamp": 1777686058,
+        "total": 229
       }
     ]
   },
@@ -633,7 +642,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 1.5915199518203735
+        "heat_rate": 0.813292920589447
       },
       "heater_bed": {
         "heat_rate": 12.60834789276123
