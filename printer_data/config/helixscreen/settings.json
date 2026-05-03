@@ -302,7 +302,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-05-03T23:32:38Z"
+          "timestamp": "2026-05-03T23:37:05Z"
         },
         "optional": [
           "fan_generic exhuast"
