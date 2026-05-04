@@ -14,7 +14,8 @@
     "gcode_render_mode": 0,
     "screensaver_type": 2,
     "sleep_sec": 1200,
-    "theme": "tokyonight"
+    "theme": "tokyonight",
+    "timezone": "America/New_York"
   },
   "gcode_viewer": {
     "shading_model": "phong",
@@ -123,6 +124,15 @@
         "temp_bucket": 2,
         "timestamp": 1777840970,
         "total": 645
+      },
+      {
+        "phases": {
+          "2": 17,
+          "7": 170
+        },
+        "temp_bucket": 2,
+        "timestamp": 1777864723,
+        "total": 361
       }
     ]
   },
@@ -659,10 +669,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 4.5373454093933105
+        "heat_rate": 4.943889141082764
       },
       "heater_bed": {
-        "heat_rate": 21.66903305053711
+        "heat_rate": 17.050161361694336
       }
     }
   },
