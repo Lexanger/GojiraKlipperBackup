@@ -304,7 +304,6 @@
             "filament_switch_sensor mmu_pre_gate_10",
             "filament_switch_sensor mmu_pre_gate_11",
             "filament_switch_sensor extruder_sensor",
-            "filament_switch_sensor toolhead_sensor",
             "filament_switch_sensor filament_tension_sensor"
           ],
           "heaters": [
@@ -322,7 +321,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-05-05T17:17:31Z"
+          "timestamp": "2026-05-05T18:19:02Z"
         },
         "optional": [
           "fan_generic exhuast"
