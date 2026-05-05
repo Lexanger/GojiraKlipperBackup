@@ -667,6 +667,7 @@
                   "col": 3,
                   "colspan": 1,
                   "config": {
+                    "color": 15022389,
                     "macro": "HEAT_SOAK"
                   },
                   "enabled": true,
