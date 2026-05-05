@@ -662,6 +662,17 @@
                   "id": "temp_graph:1",
                   "row": 0,
                   "rowspan": 2
+                },
+                {
+                  "col": 3,
+                  "colspan": 1,
+                  "config": {
+                    "macro": "HEAT_SOAK"
+                  },
+                  "enabled": true,
+                  "id": "favorite_macro:1",
+                  "row": 2,
+                  "rowspan": 1
                 }
               ]
             }
