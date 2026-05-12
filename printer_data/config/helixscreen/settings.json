@@ -319,7 +319,8 @@
           "mmu",
           "fan_generic exhaust",
           "controller_fan controller_fan1",
-          "controller_fan controller_fan"
+          "controller_fan controller_fan",
+          "filament_switch_sensor filament_compression_sensor"
         ],
         "last_snapshot": {
           "fans": [
@@ -344,7 +345,8 @@
             "filament_switch_sensor mmu_pre_gate_10",
             "filament_switch_sensor mmu_pre_gate_11",
             "filament_switch_sensor extruder_sensor",
-            "filament_switch_sensor filament_tension_sensor"
+            "filament_switch_sensor filament_tension_sensor",
+            "filament_switch_sensor filament_compression_sensor"
           ],
           "heaters": [
             "heater_bed",
@@ -361,7 +363,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-05-12T03:01:55Z"
+          "timestamp": "2026-05-12T03:03:00Z"
         },
         "optional": [
           "fan_generic exhuast"
