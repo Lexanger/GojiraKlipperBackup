@@ -48,33 +48,6 @@
     "entries": [
       {
         "phases": {
-          "2": 40,
-          "7": 272
-        },
-        "temp_bucket": 2,
-        "timestamp": 1777492325,
-        "total": 397
-      },
-      {
-        "phases": {
-          "2": 41,
-          "7": 104
-        },
-        "temp_bucket": 2,
-        "timestamp": 1777563476,
-        "total": 390
-      },
-      {
-        "phases": {
-          "2": 18,
-          "7": 115
-        },
-        "temp_bucket": 2,
-        "timestamp": 1777564820,
-        "total": 661
-      },
-      {
-        "phases": {
           "2": 21,
           "7": 98
         },
@@ -128,13 +101,21 @@
       },
       {
         "phases": {
-          "2": 45,
-          "5": 731,
-          "7": 117
+          "2": 11,
+          "7": 104
         },
-        "temp_bucket": 1,
-        "timestamp": 1777908611,
-        "total": 2586
+        "temp_bucket": 2,
+        "timestamp": 1778866528,
+        "total": 175
+      },
+      {
+        "phases": {
+          "2": 13,
+          "7": 199
+        },
+        "temp_bucket": 2,
+        "timestamp": 1778892620,
+        "total": 308
       },
       {
         "phases": {
@@ -183,6 +164,26 @@
         "temp_bucket": 1,
         "timestamp": 1778375500,
         "total": 2181
+      },
+      {
+        "phases": {
+          "2": 11,
+          "5": 287,
+          "7": 71
+        },
+        "temp_bucket": 1,
+        "timestamp": 1778938920,
+        "total": 2605
+      },
+      {
+        "phases": {
+          "2": 11,
+          "5": 252,
+          "7": 76
+        },
+        "temp_bucket": 1,
+        "timestamp": 1778978977,
+        "total": 1849
       }
     ]
   },
@@ -363,7 +364,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-05-12T03:30:35Z"
+          "timestamp": "2026-05-17T12:09:57Z"
         },
         "optional": [
           "fan_generic exhuast"
@@ -732,10 +733,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 7.783114910125732
+        "heat_rate": 7.339448928833008
       },
       "heater_bed": {
-        "heat_rate": 75.60791778564453
+        "heat_rate": 62.191802978515625
       }
     }
   },
