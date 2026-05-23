@@ -48,15 +48,6 @@
     "entries": [
       {
         "phases": {
-          "2": 11,
-          "7": 104
-        },
-        "temp_bucket": 2,
-        "timestamp": 1778866528,
-        "total": 175
-      },
-      {
-        "phases": {
           "2": 13,
           "7": 199
         },
@@ -189,6 +180,16 @@
         "temp_bucket": 1,
         "timestamp": 1779460534,
         "total": 1926
+      },
+      {
+        "phases": {
+          "2": 11,
+          "5": 289,
+          "7": 71
+        },
+        "temp_bucket": 1,
+        "timestamp": 1779507080,
+        "total": 1757
       }
     ]
   },
@@ -368,7 +369,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-05-20T17:41:26Z"
+          "timestamp": "2026-05-23T18:05:41Z"
         },
         "optional": [
           "fan_generic exhuast",
@@ -738,10 +739,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 6.387452602386475
+        "heat_rate": 8.243424415588379
       },
       "heater_bed": {
-        "heat_rate": 78.48998260498047
+        "heat_rate": 73.71065521240234
       }
     }
   },
