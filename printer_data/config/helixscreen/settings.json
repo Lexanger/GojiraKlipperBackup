@@ -754,6 +754,9 @@
       }
     }
   },
+  "update": {
+    "dismissed_version": "0.99.74"
+  },
   "wifi_expected": false,
   "wizard_completed": true
 }
