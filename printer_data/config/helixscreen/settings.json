@@ -48,16 +48,6 @@
     "entries": [
       {
         "phases": {
-          "2": 11,
-          "5": 286,
-          "7": 71
-        },
-        "temp_bucket": 2,
-        "timestamp": 1779301338,
-        "total": 632
-      },
-      {
-        "phases": {
           "2": 16,
           "7": 363
         },
@@ -187,6 +177,14 @@
         "temp_bucket": 1,
         "timestamp": 1780854931,
         "total": 292
+      },
+      {
+        "phases": {
+          "2": 54
+        },
+        "temp_bucket": 1,
+        "timestamp": 1782086170,
+        "total": 55
       }
     ]
   },
