@@ -216,7 +216,7 @@
       "extra_sensors": {},
       "fans": {
         "chamber": "heater_fan nevermore",
-        "exhaust": "fan_generic exhuast",
+        "exhaust": "fan_generic exhaust",
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
@@ -368,7 +368,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-07-02T17:15:20Z"
+          "timestamp": "2026-07-02T17:17:03Z"
         },
         "optional": [
           "fan_generic exhuast",
