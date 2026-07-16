@@ -219,6 +219,9 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
+      "filament": {
+        "auto_color_map": false
+      },
       "filament_sensors": {
         "master_enabled": true,
         "sensors": [
