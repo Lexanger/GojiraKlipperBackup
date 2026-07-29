@@ -340,7 +340,8 @@
           ],
           "filament_sensors": [
             "filament_switch_sensor extruder_sensor",
-            "filament_switch_sensor filament_tension_sensor"
+            "filament_switch_sensor filament_tension_sensor",
+            "filament_switch_sensor filament_compression_sensor"
           ],
           "heaters": [
             "heater_bed",
@@ -357,7 +358,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-07-29T10:33:42Z"
+          "timestamp": "2026-07-29T10:35:13Z"
         },
         "optional": [
           "fan_generic exhuast",
