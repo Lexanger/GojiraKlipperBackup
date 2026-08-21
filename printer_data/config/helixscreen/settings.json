@@ -39,7 +39,7 @@
   "language": "en",
   "log_path": "/tmp/helixscreen.log",
   "motion": {
-    "jog_mode": 2
+    "jog_mode": 0
   },
   "print_start_history": {
     "entries": [
@@ -348,7 +348,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-08-20T16:11:41Z"
+          "timestamp": "2026-08-21T23:31:05Z"
         },
         "optional": [
           "fan_generic exhuast",
