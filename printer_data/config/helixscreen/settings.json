@@ -348,7 +348,7 @@
             "temperature_sensor MCU",
             "temperature_sensor SoC"
           ],
-          "timestamp": "2026-08-28T12:49:57Z"
+          "timestamp": "2026-08-28T12:54:09Z"
         },
         "optional": [
           "fan_generic exhuast",
@@ -360,6 +360,9 @@
         "hotend": "extruder"
       },
       "leds": {
+        "auto_paired_bases": [
+          "SET_NOZZLE_LEDS"
+        ],
         "auto_state": {},
         "color_presets": [
           "#FFFFFF",
@@ -375,7 +378,16 @@
         "last_color": "#FFFFFF",
         "last_white": 0.0,
         "led_on_at_start": false,
-        "macro_devices": [],
+        "macro_devices": [
+          {
+            "name": "Set Nozzle Leds",
+            "off_macro": "SET_NOZZLE_LEDS_OFF",
+            "on_macro": "SET_NOZZLE_LEDS_ON",
+            "presets": [],
+            "toggle_macro": "",
+            "type": "on_off"
+          }
+        ],
         "selected": [],
         "selected_strips": [
           "output_pin caselight"
